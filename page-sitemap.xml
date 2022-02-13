@@ -1,16 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//926-trades.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//iquitsitting.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://926-trades.com/</loc>
-		<lastmod>2022-02-08T23:04:23+00:00</lastmod>
+		<loc>https://iquitsitting.com/</loc>
+		<lastmod>2022-02-13T06:44:56+00:00</lastmod>
 		<image:image>
-			<image:loc>https://926-trades.com/wp-content/uploads/2022/01/180824_feature_top.jpg</image:loc>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/2DF_200-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://926-trades.com/wp-content/uploads/2022/01/41ZwuDKTMbL._AC_SY350_.jpg</image:loc>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/ADD7_200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://926-trades.com/wp-content/uploads/2022/01/plataforma-de-ecommerce-1024x976-1.jpg</image:loc>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/hero_150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/hero_150-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/shopping-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/F2D_200-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/shopping.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/72232-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/362259-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/02/65345-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/01/c8719c47045ac6bffb81196c026f53176e113a4f.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/01/180824_feature_top-1024x745.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://iquitsitting.com/wp-content/uploads/2022/01/41ZwuDKTMbL._AC_SY350_.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
