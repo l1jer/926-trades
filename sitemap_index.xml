@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//iquitsitting.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//926-trades.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://iquitsitting.com/post-sitemap.xml</loc>
+		<loc>https://926-trades.com/post-sitemap.xml</loc>
 		<lastmod>2020-12-15T06:12:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/page-sitemap.xml</loc>
+		<loc>https://926-trades.com/page-sitemap.xml</loc>
 		<lastmod>2022-02-13T08:45:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/jet-popup-sitemap.xml</loc>
+		<loc>https://926-trades.com/jet-popup-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/e-landing-page-sitemap.xml</loc>
+		<loc>https://926-trades.com/e-landing-page-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/portfolio-sitemap.xml</loc>
+		<loc>https://926-trades.com/portfolio-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/jupiterx-codes-sitemap.xml</loc>
+		<loc>https://926-trades.com/jupiterx-codes-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/category-sitemap.xml</loc>
+		<loc>https://926-trades.com/category-sitemap.xml</loc>
 		<lastmod>2020-12-15T06:12:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://iquitsitting.com/author-sitemap.xml</loc>
+		<loc>https://926-trades.com/author-sitemap.xml</loc>
 		<lastmod>2022-02-08T23:04:50+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
