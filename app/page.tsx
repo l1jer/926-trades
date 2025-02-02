@@ -337,7 +337,7 @@ export default function Home() {
             >
               <h2 className="text-4xl font-light mb-4 text-[#D4B86A]">Let's Connect</h2>
               <p className="text-gray-400 text-lg">
-                We're here to answer your questions and discuss how we can work together.
+                We&apos;re here to answer your questions and discuss how we can work together.
               </p>
             </motion.div>
 
