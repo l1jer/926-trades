@@ -139,7 +139,7 @@ export default function Home() {
 
             </motion.h2>
             
-            <p className="text-gray-300 leading-relaxed text-lg px-8">
+            <p className="text-gray-400 leading-relaxed text-lg px-8">
               We carefully curate the finest Australian products, ensuring each item meets our exceptional standards of quality and luxury.
             </p>
           </div>
@@ -261,7 +261,7 @@ export default function Home() {
               <div className="space-y-6">
                 <h3 className="text-2xl font-light text-[#D4B86A] mb-4">Our Expertise</h3>
                 <p className="text-gray-400 leading-relaxed">
-                  With over 5 years of experience, we've established ourselves as trusted partners in the export industry. Our team specializes in curating the finest selection of Australian goods for discerning clients.
+                  With over 5 years of experience, we&apos;ve established ourselves as trusted partners in the export industry. Our team specializes in curating the finest selection of Australian goods for discerning clients.
                 </p>
               </div>
             </div>
