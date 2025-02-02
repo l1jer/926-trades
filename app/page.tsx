@@ -335,7 +335,7 @@ export default function Home() {
               transition={{ duration: 0.6 }}
               className="text-center mb-16"
             >
-              <h2 className="text-4xl font-light mb-4 text-[#D4B86A]">Let's Connect</h2>
+              <h2 className="text-4xl font-light mb-4 text-[#D4B86A]">Let&apos;s Connect</h2>
               <p className="text-gray-400 text-lg">
                 We&apos;re here to answer your questions and discuss how we can work together.
               </p>
